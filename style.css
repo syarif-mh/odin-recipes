@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+.recipes {
+    width: 500px;
+    height: 500px;
+    background-color: violet;
+    margin: auto;
+    border-radius: 16px;
+}
+
+.title {
+    color: azure;
+    text-align: center;
+    background-color: aquamarine;
+    padding: 24px;
+    border-radius: 16px 16px 0 0;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    padding-left: 0;
+    background-color: aquamarine;
+    border-radius: 20px;
+    border: 8px solid violet;
+}
+
+.unorder {
+    padding: 24px;
+    background: whitesmoke;
+    border: 3px solid violet;
+    margin: 16px;
+    border-radius: 12px;
+}
+
+/* a {
+    color: aquamarine;
+} */
